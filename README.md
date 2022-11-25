@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👽, I'm Phatarisa M.</h1>
 <h3 align="center">A Full Stack developer</h3>
 
-- 🌱 I’m currently learning **React, Golang, Kubenetes**
+- 🌱 I’m currently learning **React, Golang, Jenkins, Kubenetes**
 
 - 📫 How to reach me **phatarisa.m@gmail.com**
 
